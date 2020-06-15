@@ -1,1 +1,1 @@
-just about from webpack sampile demo
+just about webpack sampile demo
